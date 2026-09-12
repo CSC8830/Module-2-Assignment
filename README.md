@@ -19,8 +19,3 @@ Double click on createGroundTruthCSV.m, then click Run.
 
 Next, double click on measureObjectDimensions.m, then click Run.
 <img width="1270" height="602" alt="image" src="https://github.com/user-attachments/assets/3f4b427a-df33-4b82-bad4-4b071e53ab5f" />
-
-
-
-
-
