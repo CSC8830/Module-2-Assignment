@@ -17,7 +17,7 @@ Make sure you are in MATLAB Drive - Module 2 Assignment.
 Double click on createGroundTruthCSV.m, then click Run.
 <img width="1290" height="609" alt="image" src="https://github.com/user-attachments/assets/bc446990-3ab2-45e4-b782-31577501e308" />
 
-Next, click on measureObjectDimensions.m, then click Run.
+Next, double click on measureObjectDimensions.m, then click Run.
 <img width="1270" height="602" alt="image" src="https://github.com/user-attachments/assets/3f4b427a-df33-4b82-bad4-4b071e53ab5f" />
 
 
